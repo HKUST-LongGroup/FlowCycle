@@ -1,0 +1,30 @@
+name: flowcycle
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - anaconda
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - ipdb
+  - flake8
+  - ipykernel
+  - pytest
+  - pytest-env
+  - tqdm
+  - numpy
+  - pytorch>=1.11.0
+  - torchvision>=0.12.0
+  - nvidia::cudatoolkit
+  - wandb
+  - tensorboard
+  - transformers>=4.14.1
+  - diffusers=0.30.1
+  - accelerate
+  - seaborn
+  - cuda-nvcc
+  - sentencepiece==0.2.0
+variables:
+  CACHE_NUMBER: 0

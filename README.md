@@ -34,8 +34,20 @@ Enter your access token.
 ```
 python demo.py
 ```
-#### Source Prompt
+## Source Prompt
+```
 A blue-gray Audi car parked in a grassy area. A white dog sitting on the grass, next to the car. A cat laying on the hood of the car.
+```
 
-#### Target Prompt
+## Target Prompt
+```
 A blue-gray Audi car parked in a grassy area. A Husky dog sitting on the grass, next to the car. A tiger cab laying on the hood of the car.
+```
+
+# Citing NoOp
+
+If you use FlowCycle in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+
+```BibTeX
+
+```

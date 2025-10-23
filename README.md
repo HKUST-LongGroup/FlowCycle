@@ -1,6 +1,12 @@
 # FlowCycle
-The Pytorch Implementation of ''FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing'' 
 
+**FlowCycle is a target-aware image editing method with high source consistency.**
+
+![](teaser.png)
+
+> [**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**](https://arxiv.org/pdf/2508.11330)
+> 
+> Yanghao Wang, Zhen Wang, Long Chen  
 
 ## Device Requirements
 

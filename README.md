@@ -4,7 +4,7 @@
 
 ![](teaser.png)
 
-> [**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**](https://arxiv.org/pdf/2508.11330)
+> [**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**](https://arxiv.org/pdf/2510.20212)
 > 
 > Yanghao Wang, Zhen Wang, Long Chen  
 

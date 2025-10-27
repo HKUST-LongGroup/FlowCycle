@@ -43,3 +43,16 @@ A blue-gray Audi car parked in a grassy area. A white dog sitting on the grass, 
 ```
 A blue-gray Audi car parked in a grassy area. A Husky dog sitting on the grass, next to the car. A tiger cab laying on the hood of the car.
 ```
+
+# Citing FlowCycle
+
+If you use FlowCycle in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
+
+```BibTeX
+@article{wang2025flowcycle,
+  title={FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing},
+  author={Wang, Yanghao and Wang, Zhen and Chen, Long},
+  journal={arXiv preprint arXiv:2510.20212},
+  year={2025}
+}
+```

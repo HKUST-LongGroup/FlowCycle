@@ -4,7 +4,7 @@
 
 ![](teaser.png)
 
-> [**FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing**](https://arxiv.org/pdf/2510.20212)
+> [**Target-aware Image Editing via Cycle-consistent Constraints**](https://arxiv.org/pdf/2510.20212)
 > 
 > Yanghao Wang, Zhen Wang, Long Chen  
 

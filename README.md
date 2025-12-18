@@ -49,8 +49,8 @@ A blue-gray Audi car parked in a grassy area. A Husky dog sitting on the grass, 
 If you use FlowCycle in your research or wish to refer to the baseline results published here, please use the following BibTeX entry.
 
 ```BibTeX
-@article{wang2025flowcycle,
-  title={FlowCycle: Pursuing Cycle-Consistent Flows for Text-based Editing},
+@article{wang2025target,
+  title={Target-aware Image Editing via Cycle-consistent Constraints},
   author={Wang, Yanghao and Wang, Zhen and Chen, Long},
   journal={arXiv preprint arXiv:2510.20212},
   year={2025}
